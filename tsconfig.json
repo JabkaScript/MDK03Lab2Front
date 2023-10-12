@@ -1,6 +1,5 @@
 {
   "compilerOptions": {
-    "baseUrl": "./vuetify-project",
     "target": "ESNext",
     "useDefineForClassFields": true,
     "module": "ESNext",
